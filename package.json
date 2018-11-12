@@ -1,0 +1,29 @@
+{
+  "name": "dataa",
+  "version": "1.1.1",
+  "description": "analysing",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/UngPkay/data.git"
+  },
+  "keywords": [
+    "1.1.47"
+  ],
+  "author": "pkay",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/UngPkay/data/issues"
+  },
+  "homepage": "https://github.com/UngPkay/data#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.16.4",
+    "node": "^11.0.0",
+    "request": "^2.88.0",
+    "sentiment": "^5.0.1"
+  }
+}
